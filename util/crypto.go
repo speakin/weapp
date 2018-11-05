@@ -14,7 +14,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/medivhzhan/weapp/util/ecb"
+	"github.com/speakin/weapp/util/ecb"
 )
 
 // SignByMD5 多参数通过MD5签名

@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/medivhzhan/weapp/util"
+	"github.com/speakin/weapp/util"
 )
 
 // 检测地址

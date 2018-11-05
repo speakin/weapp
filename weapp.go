@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/medivhzhan/weapp/util"
+	"github.com/speakin/weapp/util"
 )
 
 const (

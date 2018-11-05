@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/medivhzhan/weapp/util"
+	"github.com/speakin/weapp/util"
 )
 
 const (

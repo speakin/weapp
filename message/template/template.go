@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/medivhzhan/weapp"
-	"github.com/medivhzhan/weapp/util"
+	"github.com/speakin/weapp"
+	"github.com/speakin/weapp/util"
 )
 
 const (
